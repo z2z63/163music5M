@@ -1,0 +1,5 @@
+{
+    "venvPath":"/home/arch/anaconda3/envs",
+    "venv":"scrapy",
+    "executionEnvironments":"."
+}
